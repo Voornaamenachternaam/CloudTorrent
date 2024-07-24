@@ -77,8 +77,8 @@ github.com/cenkalti/backoff/v3 v3.2.2/go.mod h1:cIeZDE3IrqwwJl6VUwCN6trj1oXrTS4r
 github.com/cenkalti/boltbrowser v0.0.0-20190327195521-ebed13c76690/go.mod h1:TRC4W+aL8EZntkBiCvi7AGR0MH3JdBZUEx29Xm8cVoU=
 github.com/cenkalti/log v1.0.0 h1:0SITaDyovlmHFLaV+qenYmDxh8TNgxbJscMyn4W8XWk=
 github.com/cenkalti/log v1.0.0/go.mod h1:Kbz0XnbnTBtcJN8yeRuPW/9SNtP1tx5SwjU+357jKYM=
-github.com/cenkalti/rain v1.12.16 h1:dej3XK7BejelRCVQAntqCYjEm9RfzRikf1FuVjAtEbQ=
-github.com/cenkalti/rain v1.12.16/go.mod h1:nffSD59GNR1qSmd94r6wYhsPRjDoGi09qXjj1JkfNOA=
+github.com/cenkalti/rain v1.12.17 h1:VvXxuL3YzMppZy89vsfngnuL3pDXMj+i9o5kiGGR4Ho=
+github.com/cenkalti/rain v1.12.17/go.mod h1:nffSD59GNR1qSmd94r6wYhsPRjDoGi09qXjj1JkfNOA=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/cespare/xxhash/v2 v2.1.2 h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE=
