@@ -39,7 +39,7 @@ require (
 )
 
 require (
-	github.com/cenkalti/rain v1.12.17
+	github.com/cenkalti/rain v1.12.19
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/julienschmidt/sse v0.0.0-20190921213156-72db694fe9e6
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
