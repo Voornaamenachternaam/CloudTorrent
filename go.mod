@@ -1,6 +1,6 @@
 module main
 
-go 1.23
+go 1.23.1
 
 require github.com/shirou/gopsutil v3.21.11+incompatible
 
