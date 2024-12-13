@@ -32,7 +32,7 @@ require (
 	github.com/youtube/vitess v3.0.0-rc.3+incompatible // indirect
 	github.com/zeebo/bencode v1.0.0 // indirect
 	go.etcd.io/bbolt v1.3.10 // indirect
-	golang.org/x/crypto v0.24.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/exp v0.0.0-20220518171630-0b5c67f07fdf // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	lukechampine.com/blake3 v1.1.7 // indirect
@@ -43,5 +43,5 @@ require (
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/julienschmidt/sse v0.0.0-20190921213156-72db694fe9e6
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
 )
